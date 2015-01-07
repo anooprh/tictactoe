@@ -10,19 +10,19 @@
 }
 
 #gamecontainer {
-    width: 480px;
+    width: 315px;
     margin: auto;
-    height: 480px;
+    height: 315px;
     background-color: red;
-    border-radius: 5px;
-    padding: 5px;
+    border-radius: 3px;
+    padding: 2.5px;
 }
 
 .box {
     float: left;
-    height: 150px;
-    width: 150px;
+    height: 100px;
+    width: 100px;
     background-color: green;
     border-radius: 3px;
-    margin: 5px;
+    margin: 2.5px;
 }
